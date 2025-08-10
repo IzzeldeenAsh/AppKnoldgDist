@@ -1,2 +1,0 @@
-# AppKnoldgDist
-dist-folder
